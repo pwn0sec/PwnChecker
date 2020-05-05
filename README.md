@@ -37,6 +37,7 @@ chmod +x PwnChecker.sh
 * gojek, unipin, bukalapak
 * matahari, twiter, and anymore
 => personal checker
+* Business Contact : server.0day@gmail.com
 
 ## Screenshot
 
