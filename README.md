@@ -1,5 +1,5 @@
 <p align="center">
- <img src="images/logo.png" height="200"><br/>
+ <img src="/logo.png" height="200"><br/>
 A powerful Account Checker made in bash<br/>
 
 
@@ -40,5 +40,5 @@ chmod +x PwnChecker.sh
 
 ## Screenshot
 
-<img src="images/logo.png">
+<img src="/logo.png">
 
