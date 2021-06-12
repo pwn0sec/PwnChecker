@@ -4,7 +4,7 @@ A powerful Account Checker made in bash<br/>
 
 
 ## Installing
-
+ 
 Commands:
 
 ```bash
